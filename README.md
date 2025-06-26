@@ -15,8 +15,7 @@ To use MouseFollower in your project
 1. Clone this repository
    git clone https://github.com/martinmorente-dev/MouseFollower.git
 
-2. Open index.html in your browser to see the demo in action.
-3. To integrate, copy the relevant JavaScript and CSS into your own project.
+2. Execute npm install and npm run dev
 
 ## Usage
 - The script creates a visual element that smoothly follows the mouse cursor as it moves across the page.
